@@ -1,9 +1,4 @@
-//--------------------------------------------------------------------
-// created:       2013/05/07   9:34
-// Filename:      CriticalSectionMap.h
-// author:        Neo
-// Copyright(c):  上海华测导航技术有限公司. All rights reserved.
-//--------------------------------------------------------------------
+
 #ifndef _CRITICALSECTIONMAP_H__
 #define _CRITICALSECTIONMAP_H__
 

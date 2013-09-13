@@ -1,9 +1,4 @@
-//--------------------------------------------------------------------
-// created:       2013/05/07   10:13
-// Filename:      Lock.h
-// author:        Neo
-// Copyright(c):  上海华测导航技术有限公司. All rights reserved.
-//--------------------------------------------------------------------
+
 #ifndef _LOCK_H__
 #define _LOCK_H__
 #include "LockController.h"

@@ -1,9 +1,4 @@
-//--------------------------------------------------------------------
-// created:       2013/05/07   9:59
-// Filename:      LockController.h
-// author:        Neo
-// Copyright(c):  上海华测导航技术有限公司. All rights reserved.
-//--------------------------------------------------------------------
+
 #ifndef _LOCKCONTROLLER_H__
 #define _LOCKCONTROLLER_H__
 #include "CriticalSectionMap.h"
